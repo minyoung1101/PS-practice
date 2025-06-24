@@ -43,8 +43,8 @@ function updateReadme(stats) {
   const readme = fs.readFileSync(README_PATH, 'utf-8');
 
   const summaryBlock = `**Solved Problems: ${stats.total}**
-- Baekjoon: ${stats.baekjoon}
-- Programmers: ${stats.programmers}`;
+- programmers: ${stats.programmers}
+- Baekjoon: ${stats.baekjoon}`;
 
   const updated = readme.replace(
     /\*\*Solved Problems: \d+\*\*[\s\S]*?- Programmers: \d+/,
