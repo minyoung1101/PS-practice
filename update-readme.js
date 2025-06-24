@@ -42,14 +42,18 @@ function generateStats() {
 function updateReadme(stats) {
   const readme = fs.readFileSync(README_PATH, 'utf-8');
 
-  const summaryBlock = `**Solved Problems: ${stats.total}**
-- programmers: ${stats.programmers}
-- Baekjoon: ${stats.baekjoon}`;
+  const newBlock = `**Solved Problems: ${stats.total}**
+- Baekjoon: ${stats.baekjoon}
+- Programmers: ${stats.programmers}`;
 
   const updated = readme.replace(
     /\*\*Solved Problems: \d+\*\*[\s\S]*?- Programmers: \d+/,
-    summaryBlock
+    newBlock
   );
+
+  if (updated === readme) {
+    console.warn('⚠️ 기존 텍스트를 찾지 못했어요. README 형식을 확인해 주세요!');
+  }
 
   fs.writeFileSync(README_PATH, updated, 'utf-8');
   console.log('✅ README updated with latest problem stats!');
