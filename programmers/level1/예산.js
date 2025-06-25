@@ -1,4 +1,4 @@
-// 숫자 짝꿍 :12982
+// 예산 :12982
 // https://school.programmers.co.kr/learn/courses/30/lessons/12982
 
 function solution(d, budget) {
