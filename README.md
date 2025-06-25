@@ -1,5 +1,5 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 1**
+**Solved Problems: 2**
 - Baekjoon: 0
-- Programmers: 1
+- Programmers: 2
