@@ -7,15 +7,19 @@ const TARGET_PLATFORMS = ['programmers', 'baekjoon'];
 
 function getCreatedDate(filePath) {
   try {
-    const result = execSync(
-      `git log --diff-filter=A --follow --format=%ad --date=short -- "${filePath}"`
-    )
-      .toString()
-      .trim()
-      .split('\n')[0];
-    return result || 'Unknown';
+    const firstCommitHash = execSync(
+      `git log --diff-filter=A --follow --format=%H -- "${filePath}"`
+    ).toString().trim().split('\n').pop();
+
+    if (!firstCommitHash) return 'Unknown';
+
+    const date = execSync(
+      `git show -s --format=%ad --date=short ${firstCommitHash}`
+    ).toString().trim();
+
+    return date || 'Unknown';
   } catch (err) {
-    console.warn(`❗날짜 조회 실패: ${filePath}`);
+    console.warn(`❗최초 커밋 날짜 추적 실패: ${filePath}`);
     return 'Unknown';
   }
 }
