@@ -7,12 +7,15 @@ const TARGET_PLATFORMS = ['programmers', 'baekjoon'];
 
 function getCreatedDate(filePath) {
   try {
-    const result = execSync(`git log --diff-filter=A --follow --format=%ad --date=short -- "${filePath}"`)
+    const result = execSync(
+      `git log --diff-filter=A --follow --format=%ad --date=short -- "${filePath}"`
+    )
       .toString()
       .trim()
       .split('\n')[0];
     return result || 'Unknown';
-  } catch {
+  } catch (err) {
+    console.warn(`❗날짜 조회 실패: ${filePath}`);
     return 'Unknown';
   }
 }
@@ -32,7 +35,7 @@ function getProblemsByPlatform() {
       const levelPath = path.join(platformPath, level);
       if (!fs.lstatSync(levelPath).isDirectory()) continue;
 
-      const files = fs.readdirSync(levelPath).filter(f => f.endsWith('.js'));
+      const files = fs.readdirSync(levelPath).filter((f) => f.endsWith('.js'));
 
       for (const file of files) {
         const filePath = path.join(levelPath, file);
@@ -40,12 +43,13 @@ function getProblemsByPlatform() {
         const problemName = path.basename(file, '.js');
         const relativePath = path.relative(__dirname, filePath).replace(/\\/g, '/');
 
+        const encodedPath = encodeURI(relativePath); // 공백/한글 대응
         problems[platform].push({
           platform: capitalize(platform),
           level: 'Lv.' + level.replace(/[^0-9]/g, ''),
           date: created,
           name: problemName,
-          link: `[${problemName}](./${relativePath})`,
+          link: `[${problemName}](./${encodedPath})`, // 인코딩된 링크
         });
       }
     }
@@ -72,7 +76,7 @@ function buildTable(problems, platformName) {
   const header = '| Date | Level | Problem |\n|------------|--------|---------|';
   const rows = problems
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .map(p => {
+    .map((p) => {
       const styledLevel = formatLevelWithEmoji(p.level, platformName);
       return `| ${p.date} | ${styledLevel} | ${p.link} |`;
     });
@@ -87,7 +91,10 @@ function updateReadme(problemData) {
 - Baekjoon: ${problemData.baekjoon.length}
 - Programmers: ${problemData.programmers.length}`;
 
-  const programmersSection = `## Programmers\n\n${buildTable(problemData.programmers, 'Programmers')}`;
+  const programmersSection = `## Programmers\n\n${buildTable(
+    problemData.programmers,
+    'Programmers'
+  )}`;
   const baekjoonSection = `## Baekjoon\n\n${buildTable(problemData.baekjoon, 'Baekjoon')}`;
 
   const fullTableBlock = `<!-- problem-table-start -->\n${programmersSection}\n\n${baekjoonSection}\n<!-- problem-table-end -->`;
