@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 14**
+**Solved Problems: 15**
 - Baekjoon: 0
-- Programmers: 14
+- Programmers: 15
 
 ---
 
@@ -11,6 +11,7 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-06-28 | 🟢 Lv.1 | [문자열 다루기 기본](./programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.js) |
 | 2025-06-28 | 🟢 Lv.1 | [문자열을 정수로 바꾸기](./programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
 | 2025-06-28 | 🟢 Lv.1 | [서울에서 김서방 찾기](./programmers/level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js) |
 | 2025-06-28 | 🟢 Lv.1 | [수박수박수박수박수박수](./programmers/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js) |
