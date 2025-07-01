@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 21**
+**Solved Problems: 24**
 - Baekjoon: 0
-- Programmers: 21
+- Programmers: 24
 
 ---
 
@@ -11,6 +11,9 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-06-30 | 🟢 Lv.1 | [다트 게임](./programmers/level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.js) |
+| 2025-06-30 | 🟢 Lv.1 | [소수 찾기](./programmers/level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js) |
+| 2025-06-30 | 🟢 Lv.1 | [완주하지 못한 선수](./programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js) |
 | 2025-06-29 | 🟢 Lv.1 | [두 정수 사이의 합](./programmers/level1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.js) |
 | 2025-06-29 | 🟢 Lv.1 | [문자열 내 p와 y의 개수](./programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.js) |
 | 2025-06-29 | 🟢 Lv.1 | [문자열 내 마음대로 정렬하기](./programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js) |
