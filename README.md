@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 24**
+**Solved Problems: 39**
 - Baekjoon: 0
-- Programmers: 24
+- Programmers: 39
 
 ---
 
@@ -11,6 +11,21 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-01 | 🟢 Lv.0 | [a와 b 출력하기](./programmers/level0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [대소문자 바꿔서 출력하기](./programmers/level0/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [더 크게 합치기](./programmers/level0/%EB%8D%94%20%ED%81%AC%EA%B2%8C%20%ED%95%A9%EC%B9%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [덧셈식 출력하기](./programmers/level0/%EB%8D%A7%EC%85%88%EC%8B%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [두 수의 연산값 비교하기](./programmers/level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%97%B0%EC%82%B0%EA%B0%92%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자 리스트를 문자열로 변환하기](./programmers/level0/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 겹쳐쓰기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 곱하기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%B1%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 돌리기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 반복해서 만들기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 붙여서 출력하기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 섞기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9E%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [문자열 출력하기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [특수문자 출력하기](./programmers/level0/%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-01 | 🟢 Lv.0 | [홀짝 구분하기](./programmers/level0/%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.js) |
 | 2025-06-30 | 🟢 Lv.1 | [다트 게임](./programmers/level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.js) |
 | 2025-06-30 | 🟢 Lv.1 | [소수 찾기](./programmers/level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.js) |
 | 2025-06-30 | 🟢 Lv.1 | [완주하지 못한 선수](./programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js) |
