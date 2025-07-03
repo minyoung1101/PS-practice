@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 54**
+**Solved Problems: 61**
 - Baekjoon: 0
-- Programmers: 54
+- Programmers: 61
 
 ---
 
@@ -11,12 +11,19 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-03 | 🟢 Lv.0 | [간단한 논리 연산](./programmers/level0/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0.js) |
+| 2025-07-03 | 🟢 Lv.0 | [배열 만들기 2](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.js) |
+| 2025-07-03 | 🟢 Lv.0 | [배열 만들기 4](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%204.js) |
+| 2025-07-03 | 🟢 Lv.0 | [주사위 게임 3](./programmers/level0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203.js) |
+| 2025-07-03 | 🟢 Lv.0 | [카운트 업](./programmers/level0/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85.js) |
+| 2025-07-03 | 🟢 Lv.0 | [콜라츠 수열 만들기](./programmers/level0/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%88%98%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
 | 2025-07-02 | 🟢 Lv.0 | [등차수열의 특정한 항만 더하기](./programmers/level0/%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%9D%98%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%ED%95%AD%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.js) |
 | 2025-07-02 | 🟢 Lv.0 | [마지막 두 원소](./programmers/level0/%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%91%90%20%EC%9B%90%EC%86%8C.js) |
 | 2025-07-02 | 🟢 Lv.0 | [수 조작하기 1](./programmers/level0/%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%201.js) |
 | 2025-07-02 | 🟢 Lv.0 | [수 조작하기 2](./programmers/level0/%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%202.js) |
 | 2025-07-02 | 🟢 Lv.0 | [수열과 구간 쿼리 2](./programmers/level0/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%202.js) |
 | 2025-07-02 | 🟢 Lv.0 | [수열과 구간 쿼리 3](./programmers/level0/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%203.js) |
+| 2025-07-02 | 🟢 Lv.0 | [수열과 구간 쿼리 4](./programmers/level0/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%204.js) |
 | 2025-07-02 | 🟢 Lv.0 | [원소들의 곱과 합](./programmers/level0/%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%20%EA%B3%B1%EA%B3%BC%20%ED%95%A9.js) |
 | 2025-07-02 | 🟢 Lv.0 | [이어 붙인 수](./programmers/level0/%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%9D%B8%20%EC%88%98.js) |
 | 2025-07-02 | 🟢 Lv.0 | [주사위 게임 2](./programmers/level0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202.js) |
