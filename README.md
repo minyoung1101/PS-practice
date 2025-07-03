@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 61**
+**Solved Problems: 62**
 - Baekjoon: 0
-- Programmers: 61
+- Programmers: 62
 
 ---
 
@@ -12,6 +12,7 @@
 | Date | Level | Problem |
 |------------|--------|---------|
 | 2025-07-03 | 🟢 Lv.0 | [간단한 논리 연산](./programmers/level0/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0.js) |
+| 2025-07-03 | 🟢 Lv.0 | [글자 이어 붙여 문자열 만들기](./programmers/level0/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
 | 2025-07-03 | 🟢 Lv.0 | [배열 만들기 2](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.js) |
 | 2025-07-03 | 🟢 Lv.0 | [배열 만들기 4](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%204.js) |
 | 2025-07-03 | 🟢 Lv.0 | [주사위 게임 3](./programmers/level0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203.js) |
