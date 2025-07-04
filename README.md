@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 81**
+**Solved Problems: 94**
 - Baekjoon: 0
-- Programmers: 81
+- Programmers: 94
 
 ---
 
@@ -11,6 +11,19 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-05 | 🟢 Lv.0 | [2의 영역](./programmers/level0/2%EC%9D%98%20%EC%98%81%EC%97%AD.js) |
+| 2025-07-05 | 🟢 Lv.0 | [5명씩](./programmers/level0/5%EB%AA%85%EC%94%A9.js) |
+| 2025-07-05 | 🟢 Lv.0 | [n개 간격의 원소들](./programmers/level0/n%EA%B0%9C%20%EA%B0%84%EA%B2%A9%EC%9D%98%20%EC%9B%90%EC%86%8C%EB%93%A4.js) |
+| 2025-07-05 | 🟢 Lv.0 | [n번째 원소까지](./programmers/level0/n%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80.js) |
+| 2025-07-05 | 🟢 Lv.0 | [n번째 원소부터](./programmers/level0/n%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0.js) |
+| 2025-07-05 | 🟢 Lv.0 | [n보다 커질 때까지 더하기](./programmers/level0/n%EB%B3%B4%EB%8B%A4%20%EC%BB%A4%EC%A7%88%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%98%EA%B8%B0.js) |
+| 2025-07-05 | 🟢 Lv.0 | [배열 만들기 3](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%203.js) |
+| 2025-07-05 | 🟢 Lv.0 | [배열 조각하기](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EC%A1%B0%EA%B0%81%ED%95%98%EA%B8%B0.js) |
+| 2025-07-05 | 🟢 Lv.0 | [수열과 구간 쿼리 1](./programmers/level0/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%201.js) |
+| 2025-07-05 | 🟢 Lv.0 | [순서 바꾸기](./programmers/level0/%EC%88%9C%EC%84%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
+| 2025-07-05 | 🟢 Lv.0 | [왼쪽 오른쪽](./programmers/level0/%EC%99%BC%EC%AA%BD%20%EC%98%A4%EB%A5%B8%EC%AA%BD.js) |
+| 2025-07-05 | 🟢 Lv.0 | [할 일 목록](./programmers/level0/%ED%95%A0%20%EC%9D%BC%20%EB%AA%A9%EB%A1%9D.js) |
+| 2025-07-05 | 🟢 Lv.0 | [홀수 vs 짝수](./programmers/level0/%ED%99%80%EC%88%98%20vs%20%EC%A7%9D%EC%88%98.js) |
 | 2025-07-04 | 🟢 Lv.0 | [qr code](./programmers/level0/qr%20code.js) |
 | 2025-07-04 | 🟢 Lv.0 | [가까운 1 찾기](./programmers/level0/%EA%B0%80%EA%B9%8C%EC%9A%B4%201%20%EC%B0%BE%EA%B8%B0.js) |
 | 2025-07-04 | 🟢 Lv.0 | [글자 지우기](./programmers/level0/%EA%B8%80%EC%9E%90%20%EC%A7%80%EC%9A%B0%EA%B8%B0.js) |
