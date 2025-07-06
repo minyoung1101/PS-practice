@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 94**
+**Solved Problems: 104**
 - Baekjoon: 0
-- Programmers: 94
+- Programmers: 104
 
 ---
 
@@ -11,6 +11,16 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-06 | 🟢 Lv.0 | [1로 만들기](./programmers/level0/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [A 강조하기](./programmers/level0/A%20%EA%B0%95%EC%A1%B0%ED%95%98%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [길이에 따른 연산](./programmers/level0/%EA%B8%B8%EC%9D%B4%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%97%B0%EC%82%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [대문자로 바꾸기](./programmers/level0/%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [배열에서 문자열 대소문자 변환하기](./programmers/level0/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [소문자로 바꾸기](./programmers/level0/%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [원하는 문자열 찾기](./programmers/level0/%EC%9B%90%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0.js) |
+| 2025-07-06 | 🟢 Lv.0 | [조건에 맞게 수열 변환하기 1](./programmers/level0/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%201.js) |
+| 2025-07-06 | 🟢 Lv.0 | [조건에 맞게 수열 변환하기 2](./programmers/level0/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%202.js) |
+| 2025-07-06 | 🟢 Lv.0 | [특정한 문자를 대문자로 바꾸기](./programmers/level0/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
 | 2025-07-05 | 🟢 Lv.0 | [2의 영역](./programmers/level0/2%EC%9D%98%20%EC%98%81%EC%97%AD.js) |
 | 2025-07-05 | 🟢 Lv.0 | [5명씩](./programmers/level0/5%EB%AA%85%EC%94%A9.js) |
 | 2025-07-05 | 🟢 Lv.0 | [n개 간격의 원소들](./programmers/level0/n%EA%B0%9C%20%EA%B0%84%EA%B2%A9%EC%9D%98%20%EC%9B%90%EC%86%8C%EB%93%A4.js) |
