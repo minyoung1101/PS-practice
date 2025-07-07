@@ -1,8 +1,8 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 116**
+**Solved Problems: 118**
 - Baekjoon: 0
-- Programmers: 116
+- Programmers: 118
 
 ---
 
@@ -11,6 +11,8 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-08 | 🟢 Lv.0 | [배열 만들기 6](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206.js) |
+| 2025-07-08 | 🟢 Lv.0 | [빈 배열에 추가, 삭제하기](./programmers/level0/%EB%B9%88%20%EB%B0%B0%EC%97%B4%EC%97%90%20%EC%B6%94%EA%B0%80,%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.js) |
 | 2025-07-07 | 🟢 Lv.0 | [ad 제거하기](./programmers/level0/ad%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js) |
 | 2025-07-07 | 🟢 Lv.0 | [rny_string](./programmers/level0/rny_string.js) |
 | 2025-07-07 | 🟢 Lv.0 | [간단한 식 계산하기](./programmers/level0/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%8B%9D%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js) |
