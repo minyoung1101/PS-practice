@@ -71,7 +71,7 @@ function formatLevelWithEmoji(levelStr, platform) {
     return `🔴 ${levelStr}`;
   }
 
-  return levelStr; // 백준은 아직 이모지 미적용
+  return levelStr;
 }
 
 function buildTable(problems, platformName) {
@@ -88,12 +88,47 @@ function buildTable(problems, platformName) {
   return `${header}\n${rows.join('\n')}`;
 }
 
-function updateReadme(problemData) {
-  const total = problemData.programmers.length + problemData.baekjoon.length;
+function buildStatsSection(problemData) {
+  const stats = {};
+  let total = 0;
 
-  const countBlock = `**Solved Problems: ${total}**
-- Baekjoon: ${problemData.baekjoon.length}
-- Programmers: ${problemData.programmers.length}`;
+  for (const platform of TARGET_PLATFORMS) {
+    const problems = problemData[platform];
+    const platformName = capitalize(platform);
+    stats[platformName] = { total: problems.length, levels: {} };
+    total += problems.length;
+
+    for (const p of problems) {
+      const level = p.level;
+      if (!stats[platformName].levels[level]) {
+        stats[platformName].levels[level] = 1;
+      } else {
+        stats[platformName].levels[level]++;
+      }
+    }
+  }
+
+  let output = `**Solved Problems: ${total}**\n\n`;
+  for (const [platform, data] of Object.entries(stats)) {
+    output += `- ${platform}: ${data.total}\n`;
+
+    const sortedLevels = Object.entries(data.levels).sort((a, b) => {
+      const numA = parseInt(a[0].replace(/\D/g, ''));
+      const numB = parseInt(b[0].replace(/\D/g, ''));
+      return numA - numB;
+    });
+
+    for (const [level, count] of sortedLevels) {
+      const emojiLevel = formatLevelWithEmoji(level, platform);
+      output += `  - ${emojiLevel}: ${count}\n`;
+    }
+  }
+
+  return output.trim();
+}
+
+function updateReadme(problemData) {
+  const statsBlock = buildStatsSection(problemData);
 
   const programmersSection = `## Programmers\n\n${buildTable(
     problemData.programmers,
@@ -106,7 +141,7 @@ function updateReadme(problemData) {
   const readme = fs.readFileSync(README_PATH, 'utf-8');
 
   const newContent = readme
-    .replace(/\*\*Solved Problems: \d+\*\*[\s\S]*?- Programmers: \d+/, countBlock)
+    .replace(/\*\*Solved Problems: \d+\*\*[\s\S]*?(?=<!-- problem-table-start -->)/, `${statsBlock}\n\n`)
     .replace(/<!-- problem-table-start -->[\s\S]*<!-- problem-table-end -->/, fullTableBlock);
 
   fs.writeFileSync(README_PATH, newContent, 'utf-8');
