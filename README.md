@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 136**
+**Solved Problems: 137**
 
-- Programmers: 136
-  - 🟢 Lv.0: 112
+- Programmers: 137
+  - 🟢 Lv.0: 113
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,7 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-09 | 🟢 Lv.0 | [0 떼기](./programmers/level0/0%20%EB%96%BC%EA%B8%B0.js) |
 | 2025-07-08 | 🟢 Lv.0 | [두 수의 곱 구하기](./programmers/level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
 | 2025-07-08 | 🟢 Lv.0 | [두 수의 나눗셈](./programmers/level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88.js) |
 | 2025-07-08 | 🟢 Lv.0 | [두 수의 차 구하기](./programmers/level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
