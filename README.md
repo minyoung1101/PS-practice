@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 159**
+**Solved Problems: 168**
 
-- Programmers: 159
-  - 🟢 Lv.0: 135
+- Programmers: 168
+  - 🟢 Lv.0: 144
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,11 +12,20 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-10 | 🟢 Lv.0 | [l로 만들기](./programmers/level0/l%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
+| 2025-07-10 | 🟢 Lv.0 | [그림 확대](./programmers/level0/%EA%B7%B8%EB%A6%BC%20%ED%99%95%EB%8C%80.js) |
 | 2025-07-10 | 🟢 Lv.0 | [나이 출력](./programmers/level0/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5.js) |
 | 2025-07-10 | 🟢 Lv.0 | [배열 뒤집기](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.js) |
 | 2025-07-10 | 🟢 Lv.0 | [배열의 평균값](./programmers/level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%8F%89%EA%B7%A0%EA%B0%92.js) |
 | 2025-07-10 | 🟢 Lv.0 | [아이스 아메리카노](./programmers/level0/%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.js) |
 | 2025-07-10 | 🟢 Lv.0 | [옷가게 할인 받기](./programmers/level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0.js) |
+| 2025-07-10 | 🟢 Lv.0 | [이차원 배열 대각선 순회하기](./programmers/level0/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EB%8C%80%EA%B0%81%EC%84%A0%20%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0.js) |
+| 2025-07-10 | 🟢 Lv.0 | [정사각형으로 만들기](./programmers/level0/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
+| 2025-07-10 | 🟢 Lv.0 | [정수를 나선형으로 배치하기](./programmers/level0/%EC%A0%95%EC%88%98%EB%A5%BC%20%EB%82%98%EC%84%A0%ED%98%95%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js) |
+| 2025-07-10 | 🟢 Lv.0 | [조건에 맞게 수열 변환하기 3](./programmers/level0/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%203.js) |
+| 2025-07-10 | 🟢 Lv.0 | [커피 심부름](./programmers/level0/%EC%BB%A4%ED%94%BC%20%EC%8B%AC%EB%B6%80%EB%A6%84.js) |
+| 2025-07-10 | 🟢 Lv.0 | [특별한 이차원 배열 1](./programmers/level0/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%201.js) |
+| 2025-07-10 | 🟢 Lv.0 | [특별한 이차원 배열 2](./programmers/level0/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%202.js) |
 | 2025-07-10 | 🟢 Lv.0 | [피자 나눠 먹기 (3)](./programmers/level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0%20(3).js) |
 | 2025-07-09 | 🟢 Lv.0 | [0 떼기](./programmers/level0/0%20%EB%96%BC%EA%B8%B0.js) |
 | 2025-07-09 | 🟢 Lv.0 | [꼬리 문자열](./programmers/level0/%EA%BC%AC%EB%A6%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4.js) |
