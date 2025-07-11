@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 168**
+**Solved Problems: 176**
 
-- Programmers: 168
-  - 🟢 Lv.0: 144
+- Programmers: 176
+  - 🟢 Lv.0: 152
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,14 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-11 | 🟢 Lv.0 | [각도기](./programmers/level0/%EA%B0%81%EB%8F%84%EA%B8%B0.js) |
+| 2025-07-11 | 🟢 Lv.0 | [뒤집힌 문자열](./programmers/level0/%EB%92%A4%EC%A7%91%ED%9E%8C%20%EB%AC%B8%EC%9E%90%EC%97%B4.js) |
+| 2025-07-11 | 🟢 Lv.0 | [문자 반복 출력하기](./programmers/level0/%EB%AC%B8%EC%9E%90%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-11 | 🟢 Lv.0 | [양꼬치](./programmers/level0/%EC%96%91%EA%BC%AC%EC%B9%98.js) |
+| 2025-07-11 | 🟢 Lv.0 | [직각삼각형 출력하기](./programmers/level0/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
+| 2025-07-11 | 🟢 Lv.0 | [짝수 홀수 개수](./programmers/level0/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98.js) |
+| 2025-07-11 | 🟢 Lv.0 | [짝수의 합](./programmers/level0/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9.js) |
+| 2025-07-11 | 🟢 Lv.0 | [특정 문자 제거하기](./programmers/level0/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js) |
 | 2025-07-10 | 🟢 Lv.0 | [l로 만들기](./programmers/level0/l%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
 | 2025-07-10 | 🟢 Lv.0 | [그림 확대](./programmers/level0/%EA%B7%B8%EB%A6%BC%20%ED%99%95%EB%8C%80.js) |
 | 2025-07-10 | 🟢 Lv.0 | [나이 출력](./programmers/level0/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5.js) |
