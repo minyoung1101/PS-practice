@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 176**
+**Solved Problems: 178**
 
-- Programmers: 176
-  - 🟢 Lv.0: 152
+- Programmers: 178
+  - 🟢 Lv.0: 154
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,8 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-13 | 🟢 Lv.0 | [외계행성의 나이](./programmers/level0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4.js) |
+| 2025-07-12 | 🟢 Lv.0 | [배열 자르기](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.js) |
 | 2025-07-11 | 🟢 Lv.0 | [각도기](./programmers/level0/%EA%B0%81%EB%8F%84%EA%B8%B0.js) |
 | 2025-07-11 | 🟢 Lv.0 | [뒤집힌 문자열](./programmers/level0/%EB%92%A4%EC%A7%91%ED%9E%8C%20%EB%AC%B8%EC%9E%90%EC%97%B4.js) |
 | 2025-07-11 | 🟢 Lv.0 | [문자 반복 출력하기](./programmers/level0/%EB%AC%B8%EC%9E%90%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.js) |
