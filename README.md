@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 196**
+**Solved Problems: 212**
 
-- Programmers: 196
-  - 🟢 Lv.0: 172
+- Programmers: 212
+  - 🟢 Lv.0: 188
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,22 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-16 | 🟢 Lv.0 | [가장 큰 수 찾기](./programmers/level0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.js) |
+| 2025-07-16 | 🟢 Lv.0 | [공 던지기](./programmers/level0/%EA%B3%B5%20%EB%8D%98%EC%A7%80%EA%B8%B0.js) |
+| 2025-07-16 | 🟢 Lv.0 | [대문자와 소문자](./programmers/level0/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80%20%EC%86%8C%EB%AC%B8%EC%9E%90.js) |
+| 2025-07-16 | 🟢 Lv.0 | [문자열 정렬하기 (1)](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20(1).js) |
+| 2025-07-16 | 🟢 Lv.0 | [문자열안에 문자열](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%88%EC%97%90%20%EB%AC%B8%EC%9E%90%EC%97%B4.js) |
+| 2025-07-16 | 🟢 Lv.0 | [배열 원소의 길이](./programmers/level0/%EB%B0%B0%EC%97%B4%20%EC%9B%90%EC%86%8C%EC%9D%98%20%EA%B8%B8%EC%9D%B4.js) |
+| 2025-07-16 | 🟢 Lv.0 | [배열 회전시키기](./programmers/level0/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.js) |
+| 2025-07-16 | 🟢 Lv.0 | [숨어있는 숫자의 덧셈 (1)](./programmers/level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1).js) |
+| 2025-07-16 | 🟢 Lv.0 | [암호 해독](./programmers/level0/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85.js) |
+| 2025-07-16 | 🟢 Lv.0 | [인덱스 바꾸기](./programmers/level0/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
+| 2025-07-16 | 🟢 Lv.0 | [중복된 숫자 개수](./programmers/level0/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%88%AB%EC%9E%90%20%EA%B0%9C%EC%88%98.js) |
+| 2025-07-16 | 🟢 Lv.0 | [최댓값 만들기 (2)](./programmers/level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(2).js) |
+| 2025-07-16 | 🟢 Lv.0 | [팩토리얼](./programmers/level0/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.js) |
+| 2025-07-15 | 🟢 Lv.0 | [2차원으로 만들기](./programmers/level0/2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
+| 2025-07-15 | 🟢 Lv.0 | [주사위의 개수](./programmers/level0/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98.js) |
+| 2025-07-15 | 🟢 Lv.0 | [합성수 찾기](./programmers/level0/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.js) |
 | 2025-07-14 | 🟢 Lv.0 | [7의 개수](./programmers/level0/7%EC%9D%98%20%EA%B0%9C%EC%88%98.js) |
 | 2025-07-14 | 🟢 Lv.0 | [n의 배수 고르기](./programmers/level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.js) |
 | 2025-07-14 | 🟢 Lv.0 | [가위 바위 보](./programmers/level0/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4.js) |
