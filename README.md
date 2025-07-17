@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 226**
+**Solved Problems: 232**
 
-- Programmers: 226
-  - 🟢 Lv.0: 202
+- Programmers: 232
+  - 🟢 Lv.0: 208
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,10 +12,16 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-17 | 🟢 Lv.0 | [등수 매기기](./programmers/level0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.js) |
+| 2025-07-17 | 🟢 Lv.0 | [로그인 성공](./programmers/level0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5.js) |
 | 2025-07-17 | 🟢 Lv.0 | [문자열 계산하기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js) |
 | 2025-07-17 | 🟢 Lv.0 | [소인수분해](./programmers/level0/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.js) |
+| 2025-07-17 | 🟢 Lv.0 | [연속된 수의 합](./programmers/level0/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9.js) |
 | 2025-07-17 | 🟢 Lv.0 | [영어가 싫어요](./programmers/level0/%EC%98%81%EC%96%B4%EA%B0%80%20%EC%8B%AB%EC%96%B4%EC%9A%94.js) |
+| 2025-07-17 | 🟢 Lv.0 | [외계어 사전](./programmers/level0/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84.js) |
 | 2025-07-17 | 🟢 Lv.0 | [이진수 더하기](./programmers/level0/%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.js) |
+| 2025-07-17 | 🟢 Lv.0 | [직사각형 넓이 구하기](./programmers/level0/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
+| 2025-07-17 | 🟢 Lv.0 | [캐릭터의 좌표](./programmers/level0/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%EC%A2%8C%ED%91%9C.js) |
 | 2025-07-16 | 🟢 Lv.0 | [369게임](./programmers/level0/369%EA%B2%8C%EC%9E%84.js) |
 | 2025-07-16 | 🟢 Lv.0 | [A로 B 만들기](./programmers/level0/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) |
 | 2025-07-16 | 🟢 Lv.0 | [k의 개수](./programmers/level0/k%EC%9D%98%20%EA%B0%9C%EC%88%98.js) |
