@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 232**
+**Solved Problems: 233**
 
-- Programmers: 232
-  - 🟢 Lv.0: 208
+- Programmers: 233
+  - 🟢 Lv.0: 209
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,7 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-22 | 🟢 Lv.0 | [OX퀴즈](./programmers/level0/OX%ED%80%B4%EC%A6%88.js) |
 | 2025-07-17 | 🟢 Lv.0 | [등수 매기기](./programmers/level0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.js) |
 | 2025-07-17 | 🟢 Lv.0 | [로그인 성공](./programmers/level0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5.js) |
 | 2025-07-17 | 🟢 Lv.0 | [문자열 계산하기](./programmers/level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js) |
