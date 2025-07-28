@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 236**
+**Solved Problems: 238**
 
-- Programmers: 236
-  - 🟢 Lv.0: 212
+- Programmers: 238
+  - 🟢 Lv.0: 214
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,8 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-28 | 🟢 Lv.0 | [저주의 숫자 3](./programmers/level0/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203.js) |
+| 2025-07-28 | 🟢 Lv.0 | [평행](./programmers/level0/%ED%8F%89%ED%96%89.js) |
 | 2025-07-23 | 🟢 Lv.0 | [다항식 더하기](./programmers/level0/%EB%8B%A4%ED%95%AD%EC%8B%9D%20%EB%8D%94%ED%95%98%EA%B8%B0.js) |
 | 2025-07-23 | 🟢 Lv.0 | [삼각형의 완성조건(2)](./programmers/level0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4(2).js) |
 | 2025-07-23 | 🟢 Lv.0 | [안전지대](./programmers/level0/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.js) |
