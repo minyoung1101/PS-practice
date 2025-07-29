@@ -1,9 +1,9 @@
 # 🧩Problem Solving Repository
 
-**Solved Problems: 238**
+**Solved Problems: 242**
 
-- Programmers: 238
-  - 🟢 Lv.0: 214
+- Programmers: 242
+  - 🟢 Lv.0: 218
   - 🟢 Lv.1: 24
 - Baekjoon: 0
 
@@ -12,6 +12,10 @@
 
 | Date | Level | Problem |
 |------------|--------|---------|
+| 2025-07-29 | 🟢 Lv.0 | [겹치는 선분의 길이](./programmers/level0/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.js) |
+| 2025-07-29 | 🟢 Lv.0 | [유한소수 판별하기](./programmers/level0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.js) |
+| 2025-07-29 | 🟢 Lv.0 | [종이 자르기](./programmers/level0/%EC%A2%85%EC%9D%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.js) |
+| 2025-07-29 | 🟢 Lv.0 | [특이한 정렬](./programmers/level0/%ED%8A%B9%EC%9D%B4%ED%95%9C%20%EC%A0%95%EB%A0%AC.js) |
 | 2025-07-28 | 🟢 Lv.0 | [저주의 숫자 3](./programmers/level0/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203.js) |
 | 2025-07-28 | 🟢 Lv.0 | [평행](./programmers/level0/%ED%8F%89%ED%96%89.js) |
 | 2025-07-23 | 🟢 Lv.0 | [다항식 더하기](./programmers/level0/%EB%8B%A4%ED%95%AD%EC%8B%9D%20%EB%8D%94%ED%95%98%EA%B8%B0.js) |
